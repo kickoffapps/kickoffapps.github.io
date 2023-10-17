@@ -1,2 +1,3 @@
-# kickoffapps.github.io
-Kickoff Apps Website
+# Kickoff Apps Website
+
+Public Kickoff apps website
